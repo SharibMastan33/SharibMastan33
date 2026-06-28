@@ -1,3 +1,69 @@
+# Mohammed Sharib Mastan
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=260&color=0:00D4AA,100:0EA5E9&text=Mohammed%20Sharib%20Mastan&fontColor=ffffff&fontSize=46"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=800&color=00D4AA&center=true&vCenter=true&width=900&lines=Building+AI+Products;Crafting+Premium+Web+Experiences;React+•+FastAPI+•+Spring+Boot;Docker+•+AWS+•+Kubernetes"/>
+
+</div>
+
+# `whoami`
+
+```python
+class MohammedSharibMastan:
+    role="Full Stack Developer"
+    location="Mysuru, Karnataka, India"
+    portfolio="https://sharibmastan.in"
+    email="mohammed@sharibmastan.in"
+```
+
+## About
+
+I build premium web applications, AI-powered products, and modern developer experiences.
+
+## Experience Snapshot
+
+| Experience | Focus | Open To |
+|---|---|---|
+| Full-Stack Development | AI Products | Worldwide |
+
+## Tech Arsenal
+
+### Frontend
+React • JavaScript • HTML • CSS • Tailwind • Vite
+
+### Backend
+Spring Boot • FastAPI • Node.js • Express
+
+### Database
+MongoDB • MySQL
+
+### DevOps
+Docker • Kubernetes • AWS • Git • GitHub
+
+### AI
+OpenAI • Gemini • LiDAR • 3D Cuboid • QA
+
+## Current Mission
+
+```yaml
+building:
+  - AI Company OS
+  - Resume Builder AI
+learning:
+  - Kubernetes
+  - AWS
+```
+
+## Education
+
+Diploma in Computer Science Engineering  
+D. Banumaiah Polytechnic College
+
+---
+
+Part 1 of 2.
 <!-- ========================================================= -->
 <!--                    PART 2 OF 2                            -->
 <!-- ========================================================= -->
