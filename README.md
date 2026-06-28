@@ -1,371 +1,325 @@
-# Mohammed Sharib Mastan
+<!--
+═══════════════════════════════════════════════════════════════════════════
+  MOHAMMED SHARIB MASTAN · GitHub profile README
+  File:   README.md  in  github.com/SharibMastan33/SharibMastan33
+═══════════════════════════════════════════════════════════════════════════
+-->
+
+<a href="https://sharibmastan.in/">
+  <img width="100%" alt="Mohammed Sharib Mastan — Full Stack Developer · AI Builder · DevOps Learner"
+       src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,24,14&height=220&section=header&text=Mohammed%20Sharib%20Mastan&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Builder%20%C2%B7%20DevOps%20Learner&descSize=18&descAlignY=58&animation=fadeIn" />
+</a>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&height=260&color=0:00D4AA,100:0EA5E9&text=Mohammed%20Sharib%20Mastan&fontColor=ffffff&fontSize=46"/>
+<a href="https://sharibmastan.in/">
+  <img alt="What I do — typing animation"
+       src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00D4AA&center=true&vCenter=true&width=850&lines=Full-Stack+Developer+%C2%B7+AI+Builder+%C2%B7+DevOps+Learner;Building+AI+Company+OS+%E2%80%94+my+personal+AI+workspace;React+%C2%B7+FastAPI+%C2%B7+Spring+Boot+%C2%B7+MongoDB;Crafting+premium+websites+and+AI-powered+products;Clean+UI+%C2%B7+Reliable+APIs+%C2%B7+Real-world+solutions" />
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=800&color=00D4AA&center=true&vCenter=true&width=900&lines=Building+AI+Products;Crafting+Premium+Web+Experiences;React+•+FastAPI+•+Spring+Boot;Docker+•+AWS+•+Kubernetes"/>
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-sharibmastan.in-0B0F14?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0B0F14)](https://sharibmastan.in/)
+[![AI Company OS](https://img.shields.io/badge/AI_Company_OS-In_Progress-00D4AA?style=for-the-badge&logoColor=white)](https://sharibmastan.in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sharib_Mastan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharib-mastan-9a7592358/)
+[![Email](https://img.shields.io/badge/Email-mohammed%40sharibmastan.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammed@sharibmastan.in)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=SharibMastan33&label=PROFILE+VIEWS&color=00D4AA&style=flat-square" />
+<img src="https://img.shields.io/github/followers/SharibMastan33?label=FOLLOWERS&style=flat-square&color=00D4AA&labelColor=0d1117" />
+<img src="https://img.shields.io/github/stars/SharibMastan33?label=STARS&style=flat-square&color=14E0C9&labelColor=0d1117" />
 
 </div>
 
-# `whoami`
+---
+
+## ` whoami `
+
+> Building premium web products, AI-powered tools, and real-world full-stack applications.  
+> Currently building **AI Company OS** — a personal AI workspace for productivity, workflows, and intelligent task management.
 
 ```python
 class MohammedSharibMastan:
-    role="Full Stack Developer"
-    location="Mysuru, Karnataka, India"
-    portfolio="https://sharibmastan.in"
-    email="mohammed@sharibmastan.in"
+    role        = "Full-Stack Developer · AI Builder · DevOps Learner"
+    location    = "Mysuru, Karnataka, India"
+    portfolio   = "sharibmastan.in"
+    email       = "mohammed@sharibmastan.in"
+    flagship    = "AI Company OS — AI-powered productivity and workflow platform"
+
+    focused_on  = (
+        "premium web experiences",
+        "AI integrations",
+        "backend APIs",
+        "cloud & DevOps",
+        "data annotation workflows"
+    )
+
+    stack = {
+        "frontend":  ["React", "Tailwind CSS", "JavaScript", "Vite", "Bootstrap"],
+        "backend":   ["Spring Boot", "FastAPI", "Node.js", "Express", "REST APIs"],
+        "database":  ["MongoDB", "MySQL"],
+        "infra":     ["Docker", "Kubernetes", "AWS", "GitHub", "Postman"],
+        "ai":        ["OpenAI", "Google Gemini", "AI Agents", "Prompt Engineering"],
+        "annotation":["3D Cuboid", "LiDAR", "Bounding Box", "Polygon", "Video QA"],
+    }
+
+    def what_im_doing_now(self):
+        return [
+            "building AI Company OS — my personal AI command center",
+            "creating Resume Builder AI with premium templates",
+            "developing premium portfolio and client websites",
+            "learning FastAPI, Kubernetes, AWS, and AI automation",
+            "open to Full-Stack, Backend, AI, DevOps, Freelance, and Remote roles",
+        ]
 ```
 
-## About
-
-I build premium web applications, AI-powered products, and modern developer experiences.
-
-## Experience Snapshot
-
-| Experience | Focus | Open To |
-|---|---|---|
-| Full-Stack Development | AI Products | Worldwide |
-
-## Tech Arsenal
-
-### Frontend
-React • JavaScript • HTML • CSS • Tailwind • Vite
-
-### Backend
-Spring Boot • FastAPI • Node.js • Express
-
-### Database
-MongoDB • MySQL
-
-### DevOps
-Docker • Kubernetes • AWS • Git • GitHub
-
-### AI
-OpenAI • Gemini • LiDAR • 3D Cuboid • QA
-
-## Current Mission
-
-```yaml
-building:
-  - AI Company OS
-  - Resume Builder AI
-learning:
-  - Kubernetes
-  - AWS
-```
-
-## Education
-
-Diploma in Computer Science Engineering  
-D. Banumaiah Polytechnic College
-
 ---
 
-Part 1 of 2.
-<!-- ========================================================= -->
-<!--                    PART 2 OF 2                            -->
-<!-- ========================================================= -->
-
-# `featured_projects`
-
-<div align="center">
-
-## 🚀 Featured Work
-
-</div>
+## 🚀 Flagship — AI Company OS
 
 <table>
-
 <tr>
+<td width="55%" valign="top">
 
-<td width="50%">
+**A personal AI operating system for work, goals, and automation.**
 
-### 🤖 AI Company OS
+A premium AI-powered productivity platform designed to feel less like a task manager and more like a living workspace — with intelligent widgets, AI roles, workflow assistance, and a polished dashboard experience.
 
->Your personal AI operating system.
+- 🧠 AI assistants for developer, manager, HR, designer, and productivity roles
+- 🗂 Smart task and workflow management
+- 🪟 Floating widget-based dashboard inspired by premium OS interfaces
+- ⚡ Admin-only AI access with controlled authentication
+- 🎨 Glassmorphism UI, animations, and modern product design
+- 🔐 Built with scalability, privacy, and real-world usability in mind
 
-#### Features
-
-- AI Assistants
-- Task Intelligence
-- Workflow Automation
-- AI Memory
-- Productivity Dashboard
-- Premium UI
-
-**Tech**
-
-React • FastAPI • Gemini • OpenAI • Docker
-
-[🌐 Portfolio](https://sharibmastan.in)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-sharibmastan.in-00D4AA?style=for-the-badge)](https://sharibmastan.in/)
+[![Status](https://img.shields.io/badge/Status-In_Progress-0EA5E9?style=for-the-badge)](https://sharibmastan.in/)
+[![Stack](https://img.shields.io/badge/Stack-React_%C2%B7_FastAPI_%C2%B7_AI-0B0F14?style=for-the-badge)](https://sharibmastan.in/)
 
 </td>
+<td width="45%" valign="top">
 
-<td width="50%">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4AA,100:0EA5E9&height=180&text=AI%20Company%20OS&fontColor=ffffff&fontSize=28"/>
+<a href="https://sharibmastan.in/">
+  <img width="100%" alt="AI Company OS preview"
+       src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0F14,50:00D4AA,100:0EA5E9&height=260&text=AI%20Company%20OS&fontColor=ffffff&fontSize=32&desc=Personal%20AI%20Workspace&descSize=16&animation=fadeIn" />
+</a>
 
 </td>
-
 </tr>
-
 </table>
 
----
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,100:00D4AA&height=180&text=Resume%20Builder%20AI&fontColor=ffffff&fontSize=28"/>
-
-</td>
-
-<td width="50%">
-
-## 📄 Resume Builder AI
-
-Professional resume builder powered by AI.
-
-### Features
-
-- AI Resume Writing
-- Premium Templates
-- ATS Friendly
-- PDF Export
-- Multiple Themes
-
-**Stack**
-
-React • FastAPI • Gemini
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## 🏡 Home Decor Portfolio
-
-Luxury portfolio experience with immersive animations.
-
-### Features
-
-- Three.js
-- GSAP
-- Smooth Scroll
-- Interactive UI
-- Responsive
-
-</td>
-
-<td width="50%">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4AA,100:2563EB&height=180&text=Luxury%20Portfolio&fontColor=ffffff&fontSize=28"/>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# `professional_experience`
+### 🧬 The product flow
 
 ```text
-
-2025 ─────────────────────────────►
-
-ZST Outsourcing Services Pvt Ltd
-Data Annotation Specialist
-
-• 3D Cuboid Annotation
-• LiDAR Annotation
-• QA
-• Video Annotation
-• Bounding Boxes
-
-──────────────────────────────────
-
-Freelance
-
-Full Stack Developer
-
-• Client Websites
-• React
-• Spring Boot
-• FastAPI
-• UI / UX
-
-──────────────────────────────────
-
-Computer Paradise
-
-Full Stack Intern
-
-• React
-• Spring Boot
-• MongoDB
-• REST APIs
-
+User goals      ─┐
+daily tasks     ─┼─→ AI Planner → Smart Dashboard → Action Cards
+projects        ─┘                     │
+                                        ↓
+                           AI Roles + Context Engine
+                                        ↓
+                       Developer · Manager · HR · Designer
+                                        ↓
+                       Focused workflows + clean execution
+                                        ↓
+                         Progress, automation, and insights
 ```
 
 ---
 
-# `github_dashboard`
+## 🛠 Tech arsenal
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sharib86180&show_icons=true&theme=transparent&title_color=00D4AA&icon_color=00D4AA&text_color=ffffff&border_color=00D4AA"/>
+**Languages & Core**
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharib86180&layout=compact&theme=transparent&title_color=00D4AA&text_color=ffffff&border_color=00D4AA"/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-00D4AA?style=for-the-badge&logo=react&logoColor=0B0F14)
+![Vite](https://img.shields.io/badge/Vite-0EA5E9?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0B0F14?style=for-the-badge&logo=framer&logoColor=00D4AA)
+
+**Backend**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-00D4AA?style=for-the-badge&logo=fastapi&logoColor=0B0F14)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-0B0F14?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-0EA5E9?style=for-the-badge&logoColor=white)
+
+**AI · Automation · Annotation**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-00D4AA?style=for-the-badge&logoColor=0B0F14)
+![3D Cuboid](https://img.shields.io/badge/3D_Cuboid-0EA5E9?style=for-the-badge)
+![LiDAR](https://img.shields.io/badge/LiDAR_Annotation-00D4AA?style=for-the-badge)
+![Quality QA](https://img.shields.io/badge/Quality_Assurance-0B0F14?style=for-the-badge&logoColor=white)
+
+**Data & Infra**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0EA5E9?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-F97316?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-<div align="center">
+## 🧱 Selected projects
 
-<img height="170" src="https://streak-stats.demolab.com?user=sharib86180&theme=transparent&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA"/>
-
-</div>
-
----
-
-# `activity_graph`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharib86180&bg_color=09090B&color=ffffff&line=00D4AA&point=00D4AA&hide_border=true&area=true"/>
-
-</div>
+| | Project | Stack | Status |
+|:-:|---|---|:-:|
+| 🧠 | **[AI Company OS](https://sharibmastan.in)** — AI-powered productivity and workflow platform | React · FastAPI · Gemini · OpenAI | In Progress |
+| 📄 | **Resume Builder AI** — AI resume generation with premium templates | React · Gemini · PDF Export | In Progress |
+| 🏡 | **MK Interior Website** — premium client portfolio website for interior work | React · Tailwind · Animations | Built |
+| 💧 | **Water Management Application** — complaint and workflow management platform | React Native · Spring Boot · MongoDB | Built |
+| 🚗 | **Car Comparison Platform** — compare brands, models, variants, and specifications | React · Spring Boot · MySQL | Academic |
+| 🍽 | **Restaurant Premium Website** — dark, modern website concept for restaurant clients | React · Tailwind · Motion | Built |
 
 ---
 
-# `github_summary`
+## 💼 Experience log
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharib86180&theme=github_dark"/>
-
-<br><br>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sharib86180&theme=github_dark"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sharib86180&theme=github_dark"/>
-
-<br><br>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sharib86180&theme=github_dark"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sharib86180&theme=github_dark&utcOffset=5.5"/>
-
-</div>
-
----
-
-# `trophies`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sharib86180&theme=algolia&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# `snake_animation`
-
-> Enable GitHub Actions and use this path after generating the snake animation.
+### Data Annotation Specialist — ZST Outsourcing Services Pvt Ltd
 
 ```text
-https://raw.githubusercontent.com/sharib86180/sharib86180/output/github-contribution-grid-snake-dark.svg
+2025 ─────────────── present
 ```
 
-Then use:
+- Worked on 3D Cuboid Annotation, LiDAR Annotation, Image Annotation, Video Annotation, and Bounding Boxes.
+- Performed QA and quality review for annotation workflows.
+- Used tools including GT Studio, Supervisely, Ango Hub, and Ango PCT.
+- Built practical experience around AI datasets, computer vision pipelines, and data quality.
+- Strengthened attention to detail through production annotation tasks.
 
-```html
+`3D Cuboid` `LiDAR` `QA` `Bounding Box` `Polygon` `Video Annotation`
+
+---
+
+### Freelance Full-Stack Developer
+
+```text
+2025 ─────────────── present
+```
+
+- Building client websites, portfolio websites, dashboards, and business applications.
+- Creating responsive, premium UI experiences with React and Tailwind CSS.
+- Developing APIs and backend workflows using Spring Boot, FastAPI, and Node.js.
+- Working on AI product ideas including AI Company OS and Resume Builder AI.
+- Focused on clean design, strong user experience, and practical business value.
+
+`React` `Tailwind` `FastAPI` `Spring Boot` `MongoDB` `AI`
+
+---
+
+### Full-Stack Web Development Intern — Computer Paradise, Mysuru
+
+```text
+2024 ─────────────── 2025
+```
+
+- Worked on full-stack web development concepts using React, Spring Boot, and MongoDB.
+- Built REST API workflows and frontend integration.
+- Improved understanding of authentication, database design, and application structure.
+- Practiced building complete web application modules from UI to backend.
+
+`React` `Spring Boot` `MongoDB` `REST APIs`
+
+---
+
+## 📈 GitHub activity
+
+<div align="center">
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SharibMastan33&theme=github_dark" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SharibMastan33&theme=github_dark" />
+
+<br/>
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SharibMastan33&theme=github_dark" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SharibMastan33&theme=github_dark" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=SharibMastan33&theme=transparent&hide_border=true&background=0d1117&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA&sideLabels=E6EDF3&dates=8B949E" />
+
+</div>
+
+### 🐍 Watch the snake eat my contributions
+
 <picture>
-
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/sharib86180/sharib86180/output/github-contribution-grid-snake-dark.svg"/>
-
-<img src="https://raw.githubusercontent.com/sharib86180/sharib86180/output/github-contribution-grid-snake.svg"/>
-
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/SharibMastan33/SharibMastan33/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/SharibMastan33/SharibMastan33/output/github-snake.svg" />
+  <img alt="snake eating my contribution graph"
+       src="https://raw.githubusercontent.com/SharibMastan33/SharibMastan33/output/github-snake.svg" />
 </picture>
-```
-
----
-
-# `currently_building`
-
-```yaml
-
-building:
-
-  - AI Company OS
-
-  - Resume Builder AI
-
-  - Premium Client Websites
-
-  - Three.js Experiences
-
-learning:
-
-  - Kubernetes
-
-  - AWS
-
-  - AI Agents
-
-exploring:
-
-  - Computer Vision
-
-  - AI Automation
-
-  - Modern UI
-
-```
-
----
-
-# `connect`
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D4AA?style=for-the-badge&logo=vercel)](https://sharibmastan.in)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sharib_Mastan-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sharib-mastan-9a7592358/)
-
-[![Email](https://img.shields.io/badge/Email-mohammed@sharibmastan.in-EA4335?style=for-the-badge&logo=gmail)](mailto:mohammed@sharibmastan.in)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SharibMastan33&bg_color=0d1117&color=00D4AA&line=14E0C9&point=ffffff&hide_border=true&area=true" />
 
 </div>
 
 ---
 
+## 🧭 Currently leveling up
+
+```text
+FastAPI backend development       ████████░░  80%
+AI product engineering            ███████░░░  70%
+Kubernetes & DevOps               █████░░░░░  50%
+AWS cloud deployment              █████░░░░░  50%
+Premium UI engineering            ████████░░  80%
+Data annotation & QA              █████████░  90%
+```
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Focus |
+|---|---|---|
+| Diploma in Computer Science Engineering | D. Banumaiah Polytechnic College, Mysuru | Software Development · Web · Databases |
+
+---
+
+## 🪞 Philosophy
+
+> *"I like building products that feel premium, solve real problems, and are simple enough for real people to use."*
+
+|  ⚡ Practical  |  🎨 Polished  |  🧠 AI-first  |  🧱 Scalable  |
+|:---:|:---:|:---:|:---:|
+| Real-world use cases | Premium interface | Smart workflows | Built to grow |
+
+---
+
 <div align="center">
 
-# 🚀
+### Let's build something that ships.
 
-### Building premium products that people love to use.
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharib-mastan-9a7592358/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0B0F14?style=for-the-badge&logo=vercel&logoColor=white)](https://sharibmastan.in/)
+[![Email](https://img.shields.io/badge/Email-Drop_a_line-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammed@sharibmastan.in)
+[![GitHub](https://img.shields.io/badge/GitHub-SharibMastan33-00D4AA?style=for-the-badge&logo=github&logoColor=0B0F14)](https://github.com/SharibMastan33)
 
-*"Code with purpose. Design with passion. Build for impact."*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,100:0EA5E9&height=120&section=footer"/>
+<sub>*Open to Full-Stack Developer, Backend Developer, AI Engineer, DevOps, freelance projects, and remote opportunities.*</sub>
 
 </div>
+
+<img width="100%"
+     src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,24,14&height=120&section=footer&animation=fadeIn" />
